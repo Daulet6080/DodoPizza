@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="btn_color">#FCF1E5</color>
+    <color name="text_color">#A5592A</color>
+    <color name="color_btn_buy">#ED722E</color>
+    <color name="gray">#807F7F</color>
+    <color name="backround_color">#121212</color>
+    <color name="surfacce">#000000</color>
+    <color name="primary">#FF6900</color>
+    <color name="seconadary">#4A1E03</color>
+    <color name="on_background">#FFFFFF</color>
+    <color name="on_surface">#6B6B6B</color>
+    <color name="on_primary">#6B6B6B</color>
+    <color name="on_surface_combo">#1D1D1D</color>
+    <color name="btn_white">#F3F3F7</color>
+    <color name="btn1_white">#F6F6F6</color>
+    <color name="bl">#4D4D4D</color>
+    <color name="bll">#262626</color>
+</resources>
